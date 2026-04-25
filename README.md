@@ -2,7 +2,7 @@
 
 Angular UI components inspired by shadcn/ui
 
-<picture style="display:flex;margin-inline:auto">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="logo-dark.svg">
-  <img src="logo.svg" alt="rollinia">
+  <img style="display:flex;margin-inline:auto" src="logo.svg" alt="rollinia">
 </picture>
