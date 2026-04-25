@@ -1,0 +1,44 @@
+{
+  "name": "@brlk/source",
+  "description": "Angular UI components inspired by shadcn/ui",
+  "version": "0.0.1",
+  "license": "MIT",
+  "homepage": "https://github.com/brlk-dev/source#brlk",
+  "author": {
+    "name": "Vladimir Drayling",
+    "url": "https://github.com/brlk-dev"
+  },
+  "repository": {
+    "url": "https://github.com/brlk-dev/source.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/brlk-dev/source/issues/new"
+  },
+  "type": "module",
+  "scripts": {
+    "prepare": "husky"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@commitlint/cli": "20.5.2",
+    "@commitlint/config-conventional": "20.5.0",
+    "@nx/js": "22.7.0",
+    "@nx/workspace": "22.7.0",
+    "husky": "9.1.7",
+    "nx": "22.7.0",
+    "prettier": "4.0.0-alpha.13"
+  },
+  "keywords": [
+    "brlk",
+    "ui",
+    "ux",
+    "design",
+    "development",
+    "components",
+    "library",
+    "shadcn",
+    "tailwindcss",
+    "angular"
+  ]
+}
