@@ -1,4 +1,4 @@
-<span hidden>brlk</span>
+<span style="display:hidden">brlk</span>
 
 Angular UI components inspired by shadcn/ui
 
